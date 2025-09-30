@@ -1,16 +1,33 @@
-## Hi there 👋
-
-<!--
-**SpielenmitLili/SpielenmitLili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hallo👋🏻
+Meine Webseite: https://lili-urban.net
+## Über mich
+- Mein Alter: 21 Jahre alt
+- Pronomen: sie/ihr
+- Mein Wohnort: Limburg (Hessen)
+- Meine Ausbildung: Fachinformatikerin Anwendungsentwicklung
+- Meine Arbeit: IT Consultant
+## Kontakt
+Gerne kann man mich via Matrix erreichen
+https://matrix.to/#/@lili:is-a-cutie.de
+## Das mag ich
+- Züge
+- Statistiken / Datenanalyse
+## Kenntnisse von Programmiersprachen
+### Kann ich gut:
+- c#
+- SQL
+- Visual Basic
+### Kann ich einigermaßen:
+- JavaScript
+- HTML
+- Python
+### Kann ich ein bisschen
+- Java
+### "Lerne" ich:
+- Perl
+## Sonstige EDV-Kenntnisse: 
+- Microsoft Office
+- Microsoft/Office 365
+- Administration von Microsoft Windows Systemen
+- Kenntnisse in Linux Ubuntu & Debian
+- Azure Devops
