@@ -1,7 +1,7 @@
 # Hallo👋🏻
 Meine Webseite: https://lili-urban.net
 ## Über mich
-- Mein Alter: 21 Jahre alt
+- Mein Alter: 22 Jahre alt
 - Pronomen: sie/ihr
 - Mein Wohnort: Limburg (Hessen)
 - Meine Ausbildung: Fachinformatikerin Anwendungsentwicklung
