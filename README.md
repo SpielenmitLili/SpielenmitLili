@@ -25,6 +25,7 @@ https://matrix.to/#/@lili:is-a-cutie.de
 - Java
 ### "Lerne" ich:
 - Perl
+- Typescript
 ## Sonstige EDV-Kenntnisse: 
 - Microsoft Office
 - Microsoft/Office 365
