@@ -26,9 +26,16 @@ https://matrix.to/#/@lili:is-a-cutie.de
 ### "Lerne" ich:
 - Perl
 - Typescript
-## Sonstige EDV-Kenntnisse: 
+## Kenntnisse im Bereich der Systemintegration: 
+
+Ich habe sowohl beruflich als auch privat viel mit Produkten von Microsoft zu tun. Dementsprechend kann ich dort eine große Palette an Kenntnissen vorweisen. 
+
+Hier sind einige Beispiele davon gelistet: 
+
+- Administration von Microsoft Windows Client und Servern
+- Administration von Microsoft Active Directory
+- Administration von Microsoft 365
+- Administration von Microsoft SQL Server
+- Administration von Azure Devops Server
 - Microsoft Office
-- Microsoft/Office 365
-- Administration von Microsoft Windows Systemen
-- Kenntnisse in Linux Ubuntu & Debian
-- Azure Devops
+- Virtualisierung mit Hyper-V
